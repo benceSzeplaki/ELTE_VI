@@ -1,0 +1,29 @@
+[
+    {
+      "mails": [
+        {
+          "id": 1,
+          "zipCode": 1004,
+          "message": "Hello 1002 PostOffice!"
+        },
+        {
+          "id": 2,
+          "zipCode": 1003,
+          "message": "Hi 1003 PostOffice!"
+        }
+      ],
+      "zipCode": 1000
+    },
+    {
+      "mails": [],
+      "zipCode": 1002
+    },
+    {
+      "mails": [],
+      "zipCode": 1003
+    },
+    {
+      "mails": [],
+      "zipCode": 1004
+    }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "from": 1000,
+    "through": [1002, 1003],
+    "to": 1004,
+    "messageId": 1
+  },
+  {
+    "from": 1000,
+    "through": [1002],
+    "to": 1003,
+    "messageId": 2
+  }
+]

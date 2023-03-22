@@ -14,7 +14,7 @@ class ConfirmWindow extends HTMLElement {
   }
 
   disConnectedCallback() {
-    this.link.addEventListener("click", (e) => this.showConfirmWindow(e));
+    this.link.removeEventListener("click", (e) => this.showConfirmWindow(e));
   }
 
   showConfirmWindow(e) {
